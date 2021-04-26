@@ -27,7 +27,8 @@ print ("""
 4) run pip install -r requirements.txt
 5) just run python setup.py or 
    go to requests dir and run  python _init_.py
-6) write your email on 
+6) ganti script id yang terdapat pada index.py dan get.py sesuai
+   dengan yang tercantum di chrome anda saat membuka m.facebook.com 
   ps: let commits this repo if you wanna fix any problems.
 ```
 
