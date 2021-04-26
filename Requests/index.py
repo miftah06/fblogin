@@ -1,8 +1,8 @@
 from operator import index
-from pip._vendor.requests import get
-import get as requests
-import btn
 
+from pip._vendor.requests import get
+
+import get as requests
 
 
 def grabbing(): pass
@@ -17,12 +17,12 @@ get("http://facebook.com")
 
 def pwd(password): pass
 
-if  btn.index =='':
+if  index =='':
     print("sandi tidak dapat di peroleh")
-elif pwd: bool = btn.index == {"id=u_0_d_R5", "id=u_0_i_7B", "id=u_0_j_LT"}
-print("button tidak dapat mendeteksikan sandi")
+elif pwd: bool = index == {"id=u_0_d_R5", "id=u_0_i_7B", "id=u_0_j_LT"}
+print('harap ganti script id dengan txt')
 if index =='':
     get('txt')
-    print("gagal memakai sandi")
+    print("maaf, ada kesalahan")
 
 
