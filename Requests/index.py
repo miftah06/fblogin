@@ -19,7 +19,7 @@ def pwd(password): pass
 
 if  index =='':
     print("sandi tidak dapat di peroleh")
-elif pwd: bool = index == {"id=u_0_d_R5", "id=u_0_i_7B", "id=u_0_j_LT"}
+elif pwd: bool = index == {"id=u_0_d_wG", "id=u_0_j_/m", "id=u_0_k_7D"}
 print('harap ganti script id dengan txt')
 if index =='':
     get('txt')

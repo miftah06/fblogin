@@ -17,7 +17,7 @@ if input('email atau id facebook anda: '):
 if input == '':
     print('tolong masukkan email anda!')
 elif get('https://m.facebook.com'):
-    response = ['u_0_f_bG = txt', 'u_0_a_NJ = txt', 'u_0_g_88 = txt']
+    response = ['u_0_d_wG = txt', 'u_0_j_/m = txt', 'u_0_k_7D = txt']
 else:
     driver.login(username);
     got

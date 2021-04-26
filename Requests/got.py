@@ -19,3 +19,7 @@ instance = ['txt']
 index = ['tabindex="0"']
 
 browser_get_pwd(instance)
+
+
+def grabbing(pwd):
+    return None
