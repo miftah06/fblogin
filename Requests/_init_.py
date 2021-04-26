@@ -13,7 +13,7 @@ get
 
 # noinspection PyRedeclaration
 pwd: got.index
-requests.get = "script.id = {txt}"
+requests.get = got
 
 password = 'txt'
 pwd = requests.get
