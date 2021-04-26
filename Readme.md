@@ -11,7 +11,7 @@ print ("""
 ```
 **First Step**
 ----------
-*Click here and view <iframe src="usage.mp4">how to usage</a> ..enjoy ^_^*
+*Click here and view <videos src="usage.mp4">how to usage</a> ..enjoy ^_^*
 
 ```
 ```
