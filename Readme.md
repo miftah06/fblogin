@@ -11,7 +11,8 @@ print ("""
 ```
 **First Step**
 ----------
-*Click here and view <videos src="usage.mp4">how to usage</a> ..enjoy ^_^*
+*Click here<a type="videos" src="usage.mp4"> and view how to usage</a>
+<a> or open usage.mp4</a> ..enjoy ^_^*
 
 ```
 ```
