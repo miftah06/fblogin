@@ -1,9 +1,10 @@
+from google.auth.transport import requests
 from pip._vendor.requests import get
 
 import got
 from btn import crawl
 
-if crawl: index = 0
+if crawl: got.index
 print("password tidak merespon")
 
 # noinspection PyRedeclaration
@@ -11,14 +12,14 @@ got.grabbing;
 get
 
 # noinspection PyRedeclaration
-pwd = 'input.codes = txt'
+pwd: got.index
+requests.get = "script.id = {txt}"
 
-get;
-pwd = pwd
-
+password = 'txt'
+pwd = requests.get
 pwd = 'txt'
 
-if pwd: pwd = get
+if get: pwd
 print("maaf,anda kurang beruntung. mohon coba lagi")
-if pwd: pwd = pwd
-print('password: ', pwd)
+if password: password
+print('password: ',pwd)
