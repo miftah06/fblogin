@@ -28,7 +28,7 @@ print ("""
 5) just run python setup.py or 
    go to requests dir and run  python _init_.py
 6) ganti script id yang terdapat pada index.py dan get.py sesuai
-   dengan yang tercantum di chrome anda saat membuka m.facebook.com 
+   dengan yang tercantum di chrome anda saat membuka m.facebook.com/login.php 
   ps: let commits this repo if you wanna fix any problems.
 ```
 
