@@ -16,7 +16,7 @@ def browser_get_pwd(instance):
 # noinspection PyRedeclaration
 instance = ['txt']
 # noinspection PyRedeclaration
-index = ['tabindex="0"']
+index = ['tab.index="1"']
 
 browser_get_pwd(instance)
 
